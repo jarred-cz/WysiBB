@@ -1,0 +1,76 @@
+if (typeof (WBBLANG)=="undefined") {WBBLANG = {};}
+WBBLANG['cs'] = {
+	bold: "Tučně",
+	italic: "Kurzíva",
+	underline: "Podtržení",
+	strike: "Přeškrtnuté",
+	link: "Vložit odkaz",
+	img: "Vložit obrázek",
+	sup: "Horní index",
+	sub: "Dolní index",
+	justifyleft: "Zarovnat doleva",
+	justifycenter: "Zarovnat na střed",
+	justifyright: "Zarovnat doprava",
+	table: "Vložit tabulku",
+	bullist: "Nečíslovaný seznam",
+	numlist: "Číslovaný seznam",
+	quote: "Citace",
+	offtop: "Mimo téma",
+	code: "Kód",
+	spoiler: "Spoiler",
+	fontcolor: "Barva písma",
+	fontsize: "Velikost písma",
+	fontfamily: "Font",
+	fs_verysmall: "Velmi malé",
+	fs_small: "Malé",
+	fs_normal: "Normální",
+	fs_big: "Velké",
+	fs_verybig: "Velmi velké",
+	smilebox: "Emotikony",
+	video: "Vložit video",
+	removeFormat:"Odstranit formátování",
+
+	modal_link_title: "Vložit odkaz",
+	modal_link_text: "Text odkazu",
+	modal_link_url: "URL adresa",
+	modal_email_text: "Zobrazit e-mail",
+	modal_email_url: "E-Mail",
+	modal_link_tab1: "Vložit URL adresu",
+
+	modal_img_title: "Vložit obrázek",
+	modal_img_tab1: "Zadejte URL adresu obrázku",
+	modal_img_tab2: "Stáhnout sobuor",
+	modal_imgsrc_text: "Zadejte adresu obrázku",
+	modal_img_btn: "Vyberte soubor, který chcete nahrát",
+	add_attach: "Přidat přílohu",
+
+	modal_video_text: "Vložte URL adresu videa ze serveru youtube.com",
+
+	close: "Zavřít",
+	save: "Uložit",
+	cancel: "Zrušit",
+	remove: "Odstranit",
+
+	validation_err: "Zadané údaje nejsou platné",
+	error_onupload: "Chyba při stahování souboru, nebo typ souboru není podporován",
+
+	fileupload_text1: "Přetáhněte soubor zde",
+	fileupload_text2: "nebo",
+
+	loading: "Načítám",
+	auto: "Auto",
+	views: "Zobrazení",
+	downloads: "Ke stažení",
+
+	//smiles
+  sm1: "Úsměv",
+  sm2: "Smích",
+  sm3: "Mrknutí",
+  sm4: "Děkuji",
+  sm5: "Nadávání",
+  sm6: "V šoku",
+  sm7: "Zlý",
+  sm8: "Frustrace",
+  sm9: "Nemocný"
+
+};
